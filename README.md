@@ -1,6 +1,7 @@
-recipes-for-06-18
-=================
-
-Contribution workflow test repo with recipes and drinks
-
+# README for Foundations Class
 bbenjamin300
+This is the original content
+---
+
+Stuff here
+
