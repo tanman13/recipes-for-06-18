@@ -1,5 +1,10 @@
-recipes-for-06-18
-=================
+# README for Foundations Class
+bbenjamin300
+This is the original content
+---
 
+Mitchell was here.
 Contribution workflow test repo with recipes and drinks
-v
+Drew's change is here
+Stuff here
+
