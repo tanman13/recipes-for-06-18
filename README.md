@@ -1,5 +1,5 @@
-recipes-for-06-18
-=================
+# README for Foundations Class
 
-Contribution workflow test repo with recipes and drinks
-v
+---
+
+Stuff here
