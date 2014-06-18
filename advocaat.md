@@ -1,0 +1,5 @@
+# Advocaat
+
+## Ingredients
+
+* egg yolks
