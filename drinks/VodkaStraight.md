@@ -13,3 +13,5 @@ Vodka Straight
 3. Close vodka bottle.
 4. Drink out of shot glass.
 5. Return to (1)
+
+#### Really good!
